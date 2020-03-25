@@ -1,6 +1,5 @@
 import React, { useContext, useState, useEffect,useCallback } from 'react';
 import Media from 'react-media';
-import {Grid} from 'semantic-ui-react';
 import { Link } from 'react-router-dom';
 
 import DownArrow from '../../assets/downArrow.png';
