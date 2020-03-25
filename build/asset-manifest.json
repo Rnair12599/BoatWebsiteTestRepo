@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/BoatWebsiteTestRepo/static/css/main.fad2b3c7.chunk.css",
+    "main.js": "/BoatWebsiteTestRepo/static/js/main.fd75844e.chunk.js",
+    "main.js.map": "/BoatWebsiteTestRepo/static/js/main.fd75844e.chunk.js.map",
+    "runtime-main.js": "/BoatWebsiteTestRepo/static/js/runtime-main.baea6ffc.js",
+    "runtime-main.js.map": "/BoatWebsiteTestRepo/static/js/runtime-main.baea6ffc.js.map",
+    "static/js/2.d3c03f2c.chunk.js": "/BoatWebsiteTestRepo/static/js/2.d3c03f2c.chunk.js",
+    "static/js/2.d3c03f2c.chunk.js.map": "/BoatWebsiteTestRepo/static/js/2.d3c03f2c.chunk.js.map",
+    "index.html": "/BoatWebsiteTestRepo/index.html",
+    "precache-manifest.f34e9af368ffb89b90a425cfb176c695.js": "/BoatWebsiteTestRepo/precache-manifest.f34e9af368ffb89b90a425cfb176c695.js",
+    "service-worker.js": "/BoatWebsiteTestRepo/service-worker.js",
+    "static/css/main.fad2b3c7.chunk.css.map": "/BoatWebsiteTestRepo/static/css/main.fad2b3c7.chunk.css.map",
+    "static/js/2.d3c03f2c.chunk.js.LICENSE.txt": "/BoatWebsiteTestRepo/static/js/2.d3c03f2c.chunk.js.LICENSE.txt",
+    "static/media/DeaConnectionLogo.png": "/BoatWebsiteTestRepo/static/media/DeaConnectionLogo.4f0023eb.png",
+    "static/media/index.css": "/BoatWebsiteTestRepo/static/media/new-york-extra-large_regular.4b281e5c.ttf",
+    "static/media/andre-benz-MsMISAIe8Qw-unsplash.png": "/BoatWebsiteTestRepo/static/media/andre-benz-MsMISAIe8Qw-unsplash.697384b3.png",
+    "static/media/artur-rutkowski-LDxq4MnYB5U-unsplash.png": "/BoatWebsiteTestRepo/static/media/artur-rutkowski-LDxq4MnYB5U-unsplash.a1e80e7c.png",
+    "static/media/bantersnaps-Bxzrd0p6yOM-unsplash.png": "/BoatWebsiteTestRepo/static/media/bantersnaps-Bxzrd0p6yOM-unsplash.13191e19.png",
+    "static/media/bantersnaps-Bxzrd0p6yOM-unsplash@3x.png": "/BoatWebsiteTestRepo/static/media/bantersnaps-Bxzrd0p6yOM-unsplash@3x.7c6546d4.png",
+    "static/media/hours_content.png": "/BoatWebsiteTestRepo/static/media/hours_content.0e272b98.png",
+    "static/media/LandingPage.css": "/BoatWebsiteTestRepo/static/media/janek-holoubek-15gOocGd8Qc-unsplash@2x.41b1db20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baea6ffc.js",
+    "static/js/2.d3c03f2c.chunk.js",
+    "static/css/main.fad2b3c7.chunk.css",
+    "static/js/main.fd75844e.chunk.js"
+  ]
+}
